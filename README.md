@@ -1,8 +1,3 @@
-# randomwordgenerator
+# Randomwordgenerator
 
-A new Flutter project.
-
-
-
-This project is a starting point for a Flutter application, working on multiple devises this project is a simple word generator capable of generating compound words and storing them in a "favorite page" when liked. 
-
+The app functions as a straightforward word generator, capable of creating compound words. Additionally, users can save their favorite words to a dedicated "favorites page" for future reference.
